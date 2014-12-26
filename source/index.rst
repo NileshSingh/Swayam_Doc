@@ -27,7 +27,7 @@ Contents:
    :maxdepth: 1
 
    read_me
-   12-16-2014
+   Swayam_Documentation
 
 Indices and tables
 ==================
