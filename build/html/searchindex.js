@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,search:0,welcom:[],modul:0,indic:0,content:0,tabl:0,swayam_document:0,document:[],page:0},objtypes:{},titles:["Swayam_documentation"],objnames:{},filenames:["index"]})
