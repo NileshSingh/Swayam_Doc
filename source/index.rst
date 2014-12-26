@@ -24,10 +24,10 @@ email message each time we update the Swayam Course Staff Release Notes.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-    read_me
-    12-16-2014
+   read_me
+   12-16-2014
 
 Indices and tables
 ==================
