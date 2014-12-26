@@ -5,8 +5,7 @@ Read Me
 This document is created using RST_ files and Sphinx_. You, the user community,
 can help update and revise this documentation project on GitHub::
 
-   Link::
-  https://github.com/NileshSingh/Swayam_Doc/blob/master/source
+   https://github.com/NileshSingh/Swayam_Doc/blob/master/source
 
 
 
