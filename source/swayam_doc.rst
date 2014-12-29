@@ -5,15 +5,13 @@ Swayam Studio Documentation Guide
   .. image::  images/testImage.jpg
     :alt: Course image
 
-######################
+**********************
 A. Swayam Studio Guide
-######################
-
+**********************
 
 A.1. Swayam
-***********
+*********** 
 Swayam is a platform to learn open online courses, from anywhere across India. 
-
 
 A.2. Swayam Studio
 ******************
@@ -25,9 +23,9 @@ Here, with no additional software required, you can use Swayam Studio directly t
 
 This document will guide you to register and create your own course on Swayam Studio.
 
-#######################################
+***************************************
 B. Developing a Course on Swayam Studio
-#######################################
+***************************************
 The following sections provide information on how to: 
 
    1. Register your account.
@@ -66,7 +64,7 @@ Enter your information in the relevant fields, as shown in the given image.
     :alt: Note page
 
 1.3. To activate your account...
-++++++++++++++++++++++++++++++++
+
    At the same time, an activation link will be sent to the given email address.
 
 
