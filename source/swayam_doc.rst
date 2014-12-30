@@ -232,6 +232,76 @@ the Settings option.
   .. image::  images/course_image.jpg
     :alt: code page
 
+  .. image::  images/note2.jpg
+    :alt: Note page
+
+  **3.1.7.**  To give the students better insight into what the course has in store, the Course Creator 
+  can upload a short Course Introduction Video, to attract more students to register for the course. 
+  This then appears in the Course Summary page of the student's account.
+
+  The video should include -
+
+ * The instructor's details
+ * The name of the university or institution introducing the video
+ * The topics covered in this course
+ * The benefits that students will gain after attending this course
+
+  .. image::  images/course_video.jpg
+    :alt: course video page
+
+ * The video must first be uploaded in YouTube. Then the YouTube URL must be copied from the code after 
+  `?v=' and before `&' and pasted in the above given textbox. 
+ * e.g. If the YouTube id is https://www.youtube.com/watch?v=n5a1dFlP_1I&list=UUeGHHdcfdJiDz8Jf5DZ-HaA   
+  then you have to provide the URL " n5a1dFlP_1I 
+
+  .. image::  images/note3.jpg
+    :alt: Note page
+
+  **3.1.8.** The Course Creator must also decide on how many hours a student needs to put in, on this course. 
+  The estimated time hours per week can be entered here in `Hours of Effort per Week’. This will clearly state 
+  the number of hours that a student is expected to work on this course.
+
+  .. image::  images/course_creator1.jpg
+    :alt: course creator page
+
+3.2. Adding Course Team Members…
+++++++++++++++++++++++++++++++++
+  The Course Creator needs to decide who the other team members are, to work along in developing and 
+  building the course. The team members may be Course Staff and Admin Access staff. While both the sets 
+  of team members can access the entire course content, the Admin Access staff has the extra privilege of
+  adding or deleting other Course Staff members. 
+
+  **3.2.1.** Now, when the Course Creator decides to add such Course Team members, the Setting option needs 
+  to be clicked again.
+
+  .. image::  images/course_team.jpg
+    :alt: course team link
+
+  **3.2.2.** The Course Team is made of new team members. So, to add a new member to the course, click on 
+  Add a New Team Member.
+
+  .. image::  images/course_team1.jpg
+    :alt: course team page
+
+  **3.2.3.** Enter the email of the new team member and click on ADD USER.
+
+  .. image::  images/course_team_add_user.jpg
+    :alt: course team add user page
+
+  **3.2.4.** When a Course Creator adds a new member to the team, the member must already have registered 
+  an account with Swayam Studio. If the Course Creator feels the need to modify the Course Team, the option 
+  to Remove Admin Access, Add Admin Access or Delete the Staff Member, by using the Delete icon, is available.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
