@@ -108,7 +108,15 @@ Enter your information in the relevant fields, as shown in the given image.
   .. image::  images/welcome.jpg
     :alt: welcome page
 
+  **1.4.4.** If you are a Course Creator, then your Course will appear in your Dashboard.
 
+  .. image::  images/course_creator.jpg
+    :alt: course_creator page
+
+  **1.4.5. Time Zone**
+
+  The Entire course needs to be developed in Universal Co-ordinated Time (UTC) except in Schedule 
+  and Details, where it will follow the   local time zone or Indian Standard Time (IST). 
 
 
 

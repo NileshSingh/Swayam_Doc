@@ -118,12 +118,32 @@ Enter your information in the relevant fields, as shown in the given image.
   The Entire course needs to be developed in Universal Co-ordinated Time (UTC) except in Schedule 
   and Details, where it will follow the   local time zone or Indian Standard Time (IST). 
 
+B.2. Understand a Course Outline Structure
+******************************************
 
+The diagram below shows you what a Course Outline should include.
 
+  .. image::  images/course_outline_structure.jpg
+    :alt: course outline structure page
 
+2.1. Sections…
+++++++++++++++
 
+A Section is the topmost category to organize the course. eg. Lectures conducted in Week 1 are labelled
+as Section1 and those of Week 2 as Section 2 and so on, according to the need of the course. A section 
+contains two or more Subsections. The author can decide on the number of Weeks or Sections. 
 
+  .. image::  images/section.jpg
+    :alt: section page
 
+2.2. Subsections...
++++++++++++++++++++
+
+A Subsection is a sub-category of a Section. According to the course topics, the author can name the 
+subsection. e.g. Subsection 1 can be termed as Lecture 1and Subsection 2 as Lecture 2 and so on.
+
+  .. image::  images/subsection.jpg
+    :alt: section page
 
 
 
