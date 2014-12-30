@@ -140,10 +140,115 @@ contains two or more Subsections. The author can decide on the number of Weeks o
 +++++++++++++++++++
 
 A Subsection is a sub-category of a Section. According to the course topics, the author can name the 
-subsection. e.g. Subsection 1 can be termed as Lecture 1and Subsection 2 as Lecture 2 and so on.
+subsection. e.g. Subsection 1 can be termed as Lecture 1 and Subsection 2 as Lecture 2 and so on.
 
   .. image::  images/subsection.jpg
-    :alt: section page
+    :alt: subsection page
+
+2.3. Units...
++++++++++++++
+
+A Unit is the next category that helps to classify the course materials. It contains
+Components, which are the building blocks of lessons. It contains four Components-
+  * Discussion
+  * HTML
+  * Problem
+  * Video
+When a unit is added, the following Components are displayed.
+
+  .. image::  images/unit.jpg
+    :alt: unit page
+
+B.3. Create a Course in Swayam Studio
+*************************************
+
+When the Course Creator sets out to create a new course, there are three options listed out - Contents, 
+Settings and Tools. The following flowchart will guide the Course Creator in building the course.
+
+  .. image::  images/course_creation.jpg
+    :alt: course creation page
+
+**Settings**
+
+To create a new course in Swayam Studio, the first step is to schedule the course, invite students to 
+attend the course and make information available to the Course Staff. To do this, you need to first choose 
+the Settings option.
+
+  .. image::  images/setting.jpg
+    :alt: setting page
+
+3.1. Schedule and Details 
++++++++++++++++++++++++++
+
+  **3.1.1.**Once the Settings option is clicked, you will now select Schedule and Details, in order to 
+  schedule your course.
+
+  .. image::  images/schedule_detail.jpg
+    :alt: schedule detail page
+
+  **3.1.2.** You can invite students to register for the course by clicking on the highlighted option, 
+  as seen in the image below.
+
+  .. image::  images/basic_info.jpg
+    :alt: basic info page
+
+  **3.1.3.** To give the students adequate information about the Course Schedule, the Course Creator must share 
+  details of when the course starts and ends. Again, the date and time when enrolment for the course will be open, 
+  also clearly needs to be mentioned here. As shown in the image below, the Course Creator enters the relevant Course 
+  Start and Course End details.
+
+  .. image::  images/schedule_detail1.jpg
+    :alt: schedule detail page
+
+  * Course Start date: It is the date when the course starts.
+  * Course End date: It is the date when the course ends.
+  * Course Start time: It is the time at which the course is meant to start.
+  * End Time: It is the time at which the course is meant to end.
+
+  .. image::  images/note1.jpg
+    :alt: Note page
+
+  **3.1.4.** To introduce your Course, you can give a short description about the course in Course Short Description column.
+
+  .. image::  images/course_intro.jpg
+    :alt: Introducing your course
+
+  This short description of the Course will look like the image below, on the students' side. 
+
+  .. image::  images/course_lay.jpg
+    :alt: course layout page
+
+  **3.1.5.**  Edit the html code in the Course Overview column to specify details like, "About the course", 
+  "description", "course staff information" and "prerequisites", to give an idea to the students about what 
+  the course is going to teach and what the prerequisites for the student are, before they enrol for the course.
+
+  .. image::  images/code_page.jpg
+    :alt: code page
+
+  **3.1.6.** There is a Course Image column that allows the Course Creator to upload an image for the course. 
+  Depending on what is suited to the contents of the course, this image can be uploaded in the Course Image column.
+  When you click on Upload Course Image, the image file to be uploaded can be selected from the directory.  
+
+  .. image::  images/course_image.jpg
+    :alt: code page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
