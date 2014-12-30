@@ -64,8 +64,53 @@ Enter your information in the relevant fields, as shown in the given image.
     :alt: Note page
 
 1.3. To activate your account...
+++++++++++++++++++++++++++++++++
 
    At the same time, an activation link will be sent to the given email address.
+
+  .. image::  images/activateAccount.jpg
+    :alt: account activation page
+
+  **1.3.1.** Click on the link to activate your account. Once the email is verified, 
+  you will see the following message displayed in your studio account.
+
+  **1.3.2.** Click on dashboard to see "My Courses" page.
+
+  .. image::  images/my_course_page.jpg
+    :alt: Course page
+
+1.4. Resetting User Information…
+++++++++++++++++++++++++++++++++
+
+  Sometimes, the User may register an account in Swayam Studio with his/her personal email id. 
+  If the User's registered information such as full name, email id  and password need to be
+  edited to an institutional full name, email id and an alternate password, which is recommended, 
+  click on View Live in Course Outline page.
+
+  .. image::  images/course_outline.jpg
+    :alt: Course outline page
+
+  **1.4.1.** Once View Live has been clicked, the screen will be directed to the students' 
+  side at http://14.139.97.86. When this is seen, the User can click on the name.
+
+  .. image::  images/live_view_page.jpg
+    :alt: live view page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
