@@ -96,11 +96,27 @@ Enter your information in the relevant fields, as shown in the given image.
   .. image::  images/live_view_page.jpg
     :alt: live view page
 
+  **1.4.2.** The Dashboard is now open, as shown in the image below, with the options to edit the user information.
 
+  .. image::  images/dashboard.jpg
+    :alt: dashboard page
 
+  **1.4.3.** If you are a staff member, an email request is to be sent to the Course Creator. 
+  This request will enable the Course Creator to add you as a staff member to a particular course,
+  giving you access to edit the course information.
 
+  .. image::  images/welcome.jpg
+    :alt: welcome page
 
+  **1.4.4.** If you are a Course Creator, then your Course will appear in your Dashboard.
 
+  .. image::  images/course_creator.jpg
+    :alt: course_creator page
+
+  **1.4.5. Time Zone**
+
+  The Entire course needs to be developed in Universal Co-ordinated Time (UTC) except in Schedule 
+  and Details, where it will follow the   local time zone or Indian Standard Time (IST). 
 
 
 
