@@ -288,7 +288,20 @@ the Settings option.
   .. image::  images/course_team_add_user.jpg
     :alt: course team add user page
 
+  **3.2.4.** When a Course Creator adds a new member to the team, the member must already have registered 
+  an account with Swayam Studio. If the Course Creator feels the need to modify the Course Team, the option 
+  to Remove Admin Access, Add Admin Access or Delete the Staff Member, by using the Delete icon, is available.
 
+  .. image::  images/admin.jpg
+    :alt: admin page
+
+3.3. Grading…
++++++++++++++
+
+  Before the course is uploaded and started, the grading policy needs to be defined by the Course Creator. 
+  This helps the students to understand how their performances will be graded through the course.
+
+  **3.3.1.** Clicking on the Settings column again, the Course Creator can select Grading at this step.
 
 
 

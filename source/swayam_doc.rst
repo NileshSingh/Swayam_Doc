@@ -292,6 +292,57 @@ the Settings option.
   an account with Swayam Studio. If the Course Creator feels the need to modify the Course Team, the option 
   to Remove Admin Access, Add Admin Access or Delete the Staff Member, by using the Delete icon, is available.
 
+  .. image::  images/admin.jpg
+    :alt: admin page
+
+3.3. Grading…
++++++++++++++
+
+  Before the course is uploaded and started, the grading policy needs to be defined by the Course Creator. 
+  This helps the students to understand how their performances will be graded through the course.
+
+  **3.3.1.** Clicking on the Settings column again, the Course Creator can select Grading at this step.
+
+  .. image::  images/grading.jpg
+    :alt: Grading link
+
+  **3.3.2.** The first scale that will come on the screen by default, is an Overall Grade Range that broadly 
+  classifies the students into Fail and Pass scale.
+
+  .. image::  images/grading1.jpg
+    :alt: Grading page
+
+  **3.3.3.** If the Course Creator wants to modify this broad classification into a more specific scale, 
+  this is what is to be done. Click on "+" symbol to increase the marks between the ranges or by dragging 
+  the colours. eg. Grades can also be given by dragging at 85-100 as A grade, 70-85  as B grade, 55-70 as 
+  C grade, 40-55 as D grade and below that as Fail.
+
+  .. image::  images/overall_grading.jpg
+    :alt: Grading page
+
+  **3.3.4.** On the other hand, if the Course Creator is not satisfied with the set grades, then the grades 
+  can be removed by using the option `remove'.
+
+  .. image::  images/overall_grading_range.jpg
+    :alt: Grading page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
