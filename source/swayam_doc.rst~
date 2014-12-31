@@ -445,6 +445,7 @@ content can be changed to suit the Course Creator's requirements once they are i
     :alt: note page
 
   **Content**
+
   With the basic guidelines familiar to the Course Creator, the next step is to create the course
 
   .. image::  images/content.jpg
@@ -474,11 +475,197 @@ content can be changed to suit the Course Creator's requirements once they are i
   .. image::  images/note8.jpg
     :alt: note page
 
-  .. image::  images/note9.jpg
+  .. image::  images/note8.jpg
     :alt: note page
 
   **3.8.3.** If the Course Creator chooses to upload a new file or upload the first asset, the following image will 
   be seen. The Course Creator now needs to select the file from the directory by clicking on Choose File.
+
+  .. image::  images/file_upload_new.jpg
+    :alt: upload new page
+
+  **3.8.4.** Once the file is chosen, the directory opens for the Course Creator to choose the file that needs to be uploaded.
+  
+  .. image::  images/file_upload_new1.jpg
+    :alt: upload page
+
+  **3.8.5.** The file will be uploaded and details will be displayed. The screen will show an auto-generated link of the Embed
+  URL and the External URL. 
+
+  .. image::  images/file_upload_new2.jpg
+    :alt: upload page 
+
+  **3.8.6.** The Embed URL will show a link of the file that has just been uploaded. This embed URL can be accessed 
+  whenever the Course Creator wishes to use that particular image or file. 
+
+  .. image::  images/file_upload_new3.jpg
+    :alt: upload page 
+
+  **3.8.7.** The External URL needs to be maintained as a secured link. If this link is shared by the Course Creator, 
+  anyone can access this link whether or not they are registered with Swayam Studio. So, the Course Creator must remember 
+  not to share this link publicly.
+
+  .. image::  images/external_url.jpg
+    :alt: external url page 
+
+  **3.8.8.** As an improved security measure, the Course Creator can lock the course material by clicking on the lock icon.
+
+  .. image::  images/data_added.jpg
+    :alt: data added page
+
+  **3.8.9.** If the  course asset has been uploaded wrongly, it can be deleted by clicking on the Delete icon.
+
+  .. image::  images/data1.jpg
+    :alt: data added page
+
+  **3.8.10.** An option to sort out the uploaded assets according to the Name and the Date Added, is also available.
+
+  .. image::  images/data2.jpg
+    :alt: data added page
+
+3.9. Pages...
++++++++++++++
+
+The Course Creator needs to use a Google calendar or the dynamic HTML calendar to build the course schedule. Pages 
+are used to update the students about certain sessions or lectures that are going to be held according to the calendar.
+When a New Page is filled with content, this will reflect on the Static Pages visible to all students on the Student View.  
+
+  **3.9.1.** To add a new page to the course, the Course Creator must click on Content and select Pages.
+
+  .. image::  images/page1.jpg
+    :alt: page  
+
+  **3.9.2.** In case the Course Creator wants to add an additional custom page to the existing ones, clicking on 
+  Add a New Page will have to be done.
+
+  .. image::  images/page2.jpg
+    :alt: page
+
+  **3.9.3.** When Add a New Page is clicked, the following image can be seen. 
+
+  .. image::  images/page3.jpg
+    :alt: page
+
+  **3.9.4.** The Course Creator now needs to click on Edit in the last row labelled Empty to be able to fill in content. 
+  The Editor now opens as another image. 
+
+  .. image::  images/page4.jpg
+    :alt: page
+
+  **3.9.5.** The Course Creator clicks on SETTINGS to change the name Editing: Empty to whatever name the Course Creator 
+  desires. eg. Course Calendar. 
+
+  .. image::  images/editor.jpg
+    :alt: editor page
+
+  * Editor: By selecting the option Visual in Settings, there are two modes available. The Course Creator can enter 
+  the content normally and get it converted to HTML, by default.
+
+  * Or, another option is Raw that can be selected to edit the content directly in HTML language, if the Course Creator 
+  knows HTML very well. 
+
+  .. image::  images/editor1.jpg
+    :alt: editor page
+
+3.10. Updates and Handouts...
++++++++++++++++++++++++++++++
+
+  Updates are issued to announce information to students. eg. Important exam dates, some changes in content, 
+  new inclusions in the sessions, etc. can be notified to the students using Updates and Handouts.
+
+  **3.10.1.** When the Course Creator wants to give updates to the students, the option Content must be clicked 
+  on to then select Updates.
+
+  .. image::  images/update.jpg
+    :alt: update page
+
+  **3.10.2.** With a fresh page open, the Course Creator now clicks on New Update button.
+
+  .. image::  images/update1.jpg
+    :alt: update page
+
+  **3.10.3.** An Editor which supports both text and HTML, is displayed. Here, the Course Creator needs to note that 
+  if the content is given in paragraph form, it will taken as Text by the Editor. Any content which is filled in the 
+  form of a letter or a notice, will be seen in its HTML form, by the Editor. The Course Creator must know that the 
+  date can be changed to a suitable one, as required.  
+
+  .. image::  images/update2.jpg
+    :alt: update page
+
+3.11. Course Outline...
++++++++++++++++++++++++
+
+  For a glimpse of how the entire course is organized, the Course Creator can view it on the Course Outline. Clicking on 
+  Content, the Course Creator can now select Outline.
+
+  .. image::  images/outline.jpg
+    :alt: outline page
+
+  The Course Outline can best be explained with the following image which shows Sections, Subsections and Units.
+
+  .. image::  images/outline1.jpg
+    :alt: outline page
+
+  **3.11.1 New Section**
+
+  A Section can represent a chapter or a topic. To create a new section, the Course Creator can click on the New Section button.
+
+  .. image::  images/outline2.jpg
+    :alt: outline page
+
+  **3.11.2.** When asked to enter a New Section name, the Course Creator needs to fill in the details and save it by 
+  clicking on the Save button.
+
+  .. image::  images/outline3.jpg
+    :alt: outline page
+
+  **3.11.3.** The Course Outline page will open to show a weekly schedule of the course. Here, the Course Creator 
+  can modify the Release Date and Time in UTC, as desired.
+
+  .. image::  images/outline4.jpg
+    :alt: outline page
+
+  **3.11.4.** If the Course Creator wants to reorganize the weekly sessions and prioritize them according to the lesson plan, 
+  the Sections can be dragged and dropped, to get them to the desired position. eg. Week 02 can be changed to Week 01 position 
+  as shown below.
+
+  .. image::  images/outline5.jpg
+    :alt: outline page
+
+  **3.11.5. Subsection**
+
+  A Subsection is a session conducted by the Course Creator. To create a Subsection,  the Course Creator needs to 
+  click on the option New Subsection, enter the name of the relevant subsection and click on Save in the following 
+  page, as shown in the images below.
+
+  .. image::  images/outline6.jpg
+    :alt: outline page
+
+  .. image::  images/outline7.jpg
+    :alt: outline page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
