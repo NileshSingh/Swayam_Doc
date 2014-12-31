@@ -326,49 +326,162 @@ the Settings option.
   .. image::  images/overall_grading_range.jpg
     :alt: Grading page
 
+  **3.3.5.** The Course Creator can allow a Grace period to the students, though this is optional. Grace period is 
+  an additional period allowed for the submission of assignment after the original submission time has elapsed. This 
+  Grace Period is applicable to all the assignments in the course. If the Course Creator wants to modify this option,
+  the Grace Period for the Course Assignment needs to be entered here, as shown, in Hours: Minutes format.
+
+  .. image::  images/grading_rule.jpg
+    :alt: Grading page
+
+  **3.3.6.** To add some more interesting details on what kind of assignments the students can expect from 
+  the course, the Course Creator must think of the Assignment Types to be included for the students in the 
+  course. Assignment Types which are all graded will appear as `Assignment Type Name' in the form of quizzes,
+  homework, lab work or a final examination. Here, the Course Creator must include details like Assignment Type 
+  Name, Abbreviation, Total number of questions, Droppable, Weight of Total Grade, etc.
+
+  .. image::  images/assignment.jpg
+    :alt: assignment page
+
+  .. image::  images/note5.jpg
+    :alt: note page
+
+  **3.3.7.** Once the Assignment Type has been decided upon, the Course Creator must click on New Assignment 
+  Type to add an assignment type or Delete to delete the existing Assignment Type.
+
+  .. image::  images/new_assignment.jpg
+    :alt: New assignment page
+
+3.4. Advanced Settings…
++++++++++++++++++++++++
+
+This series of settings is not to be used when you are creating a course for the first time. In case there
+are errors in creating the first course, the Course Creator will have to use Advanced Settings to change 
+the manual key policy.We now move onto the next menu option, which is also not to be used in creating courses
+for the first time – Tools.
+
+  .. image::  images/tools.jpg
+    :alt: tools page
+
+**Tools**
+
+  When a Course Creator has already created the first course, and some more information needs 
+  to be uploaded to the existing course, this option of Tools is used.
+
+  .. image::  images/tools1.jpg
+    :alt: tools page
 
 
+3.5. Checklist...
++++++++++++++++++
 
+  This includes all the important points that need to be remembered to create a course. For more details, 
+  please refer to the Checklist. 
 
+3.6. Export…
+++++++++++++
 
+This function is not to be used while creating content for the first time. Exporting data is an important 
+step to save all the courses that have been created and their related content, in .tar.gz file format. This 
+format will help the Course Creator and others import files, for further use.
 
+  .. image::  images/note6.jpg
+    :alt: note page
 
+  **3.6.1.** Choosing the option Tools again, the Course Creator now selects Export.
 
+  .. image::  images/export.jpg
+    :alt: export page
 
+  **3.6.2.** Select Export Course Content to export all the content that is related to the course. You can also see 
+  the data which is exported and which is not.
 
+  .. image::  images/course_export.jpg
+    :alt: export page
 
+  **3.6.3.** Once the Course Creator clicks on Export Course Content, the files will get downloaded as .tar.gz files.
 
+  .. image::  images/export_save.jpg
+    :alt: export save page
 
+3.7. Import A Course…
++++++++++++++++++++++
 
+Importing a course is not to be used for first time course creation. When a course has already been created, 
+the Course Creator may feel the need to upload some other material to supplement the existing course. Such 
+content can be changed to suit the Course Creator's requirements once they are imported. 
 
+  **3.7.1.** The Course Creator can include relevant course content, lectures or inputs from some other sources 
+  in the format of .tar.gz files, by importing such content. This can be done by clicking on Tools and selecting Import.
 
+  .. image::  images/import.jpg
+    :alt: import page
+  
+  **3.7.2.** The Course Creator can import a course file by selecting` Choose a File to Import’. As shown in the image,
+  the Course Creator needs to select a .tar.gz file to replace course content.
 
+  .. image::  images/course_import.jpg
+    :alt: import page
 
+  **3.7.3.** The Course Creator's directory now opens to help choose a file that needs to be imported.
 
+  .. image::  images/course_import_save.jpg
+    :alt: import page
 
+  **3.7.4.** After the file that is to be imported is selected, the Course Creator can click on 'Replace my course 
+  with the one above'. This is a notification asking the Course Creator if the course content needs to be replaced. 
+  If the Course Creator so decides, then it can be replaced with a click, as shown in the image below.
 
+  .. image::  images/course_import_page.jpg
+    :alt: import page
 
+  **3.7.5.** Once the content has been imported, it will take a little time to show that the imported file has
+  successfully replaced the existing course content, depending on its size.
 
+  .. image::  images/course_upload.jpg
+    :alt: upload page
 
+  .. image::  images/note7.jpg
+    :alt: note page
 
+  **Content**
+  With the basic guidelines familiar to the Course Creator, the next step is to create the course
 
+  .. image::  images/content.jpg
+    :alt: content page
 
+3.8. Files and Uploads...
++++++++++++++++++++++++++
 
+  Files and Uploads is used to upload all the course related files which are used  by the Course Creator, 
+  during course creation.
 
+  **3.8.1.** The Course Creator can now build content for the course. Clicking on Content, Files and Uploads 
+  must be selected.
+  
+  .. image::  images/file_upload.jpg
+    :alt: upload page
+  
 
+  **3.8.2.** Any file except a video file, that the Course Creator wants to include in the course, can be used. 
+  To upload material for the first time, the Course Creator must click on Upload your first asset. The first asset
+  can be an image, a pdf file, a ppt or any other file except in video format. If material has already been uploaded 
+  before, the Course Creator can then click on Upload New File.
 
+  .. image::  images/file_upload1.jpg
+    :alt: upload page
 
+  .. image::  images/note8.jpg
+    :alt: note page
 
+  .. image::  images/note8.jpg
+    :alt: note page
 
+  **3.8.3.** If the Course Creator chooses to upload a new file or upload the first asset, the following image will 
+  be seen. The Course Creator now needs to select the file from the directory by clicking on Choose File.
 
-
-
-
-
-
-
-
-
+  .. image::  images/file_upload_new.jpg
+    :alt: upload new page
 
 
 
